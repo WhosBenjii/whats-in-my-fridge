@@ -1,0 +1,10 @@
+# Dossiers et fichiers à ne jamais envoyer sur GitHub
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/
+*.db
+.DS_Store
+.streamlit/secrets.toml
+.env

@@ -1,0 +1,8 @@
+streamlit>=1.50
+anthropic>=0.40
+pandas>=2.0
+pytest>=8.0
+requests
+pillow
+pillow-heif
+psycopg[binary]>=3.1
